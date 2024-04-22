@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Usama Faheem Ahmed and I'm a MERN Stack Developer,</h2>
+<h2 align="left">Hi 👋! My name is Usama Faheem Ahmed and I'm a MERN Stack Developer</h2>
 
 ###
 
@@ -41,8 +41,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -57,11 +55,5 @@
 <br clear="both">
 
 <p align="left">As a Full Stack Developer at Fahad Tech Solution, I create dynamic and user-centric web applications that cater to a variety of business needs. I have expertise in a diverse range of technologies and tools, such as React, Redux, Formik, Node.js, Laravel, PHP, JavaScript, HTML, CSS, Bootstrap, WordPress, Axios, AJAX, Yup, React Bootstrap, Azure/AWS deployment and, and more. <br><br>With years of experience in web development, I have successfully delivered multiple projects from end to end, integrating APIs, developing front-end and back-end functionalities, and ensuring exceptional user experiences. I am passionate about staying up-to-date with the latest industry trends and best practices, and always eager to take on new challenges in the ever-evolving world of web development. I hold a BSSE degree in Computer Software Engineering from Lahore Garrison University, and I am a strong problem-solver, collaborator, and learner. Let's connect and explore opportunities to work together!</p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/usamafaheemAhmed/usamafaheemAhmed/output/snake.svg" alt="Snake animation" />
 
 ###
