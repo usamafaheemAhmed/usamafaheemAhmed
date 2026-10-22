@@ -1,87 +1,40 @@
-<h2 align="left">Hi 👋! My name is Usama Faheem Ahmed, and I'm a MERN Stack developer from Lahore, Pakistan.</h2>
+# Hi 👋, I'm Usama Faheem Ahmed
 
-###
+### Full-Stack Software Engineer (MERN Stack, React Native, Node.js)
+Lahore, Pakistan | [usamafaheemahmed.com](https://usamafaheemahmed.com) | [LinkedIn](https://www.linkedin.com/in/usama-faheem-ahmed-a1960b1b9/) | [Stack Overflow](https://stackoverflow.com/users/13608016/usama-faheem)
 
-<div align="center">
+---
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usamafaheemAhmed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### About Me
+Full-Stack Engineer with 4+ years of experience architecting and deploying scalable web and mobile applications using the MERN stack (MongoDB, Express.js, React.js, Node.js), React Native, and Laravel. Proven track record of optimizing application performance, engineering custom matching algorithms, integrating complex third-party APIs, and automating CI/CD pipelines across AWS and Azure.
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+### 🛠️ Technical Skill Set
+* **Programming Languages:** TypeScript, JavaScript (ES6+), C++, SQL, HTML5/CSS3, PHP, Java
+* **Frameworks & Libraries:** React.js, Node.js/Express.js, React Native, Laravel, WordPress, Recoil, Formik, Ant Design, Bootstrap
+* **Cloud & DevOps:** AWS, Azure, CI/CD (GitHub Actions, Bitbucket Pipelines), Docker, Netlify, Vercel
+* **Database & Tools:** MongoDB, PostgreSQL, SQL, Git, GitHub, VS Code, Postman, jsPDF
+* **Integrations & APIs:** Zoom API (OAuth 2.0), Gemini AI API, Google Sheets API, Mailchimp, Nango
 
-###
+---
 
-<div align="center">
-  <a href="mailto:me@usamafaheemahmed.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/usama.faheem.142/?hl=en" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/usama-faheem-ahmed-a1960b1b9/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/@usamafaheem80" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/13608016/usama-faheem" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://wa.me/923124513576" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
+### 💼 Professional Experience
+**Full Stack Developer | Fahad Tech Solution (FTS)** *(2022 – Present)*
+* Architected, developed, and scaled high-performance web applications, collaborating closely with cross-functional design, engineering, and QA teams in Agile sprints.
+* Optimized backend codebases and database query indexes, reducing API response latency by **35%** across production workloads.
+* Streamlined multi-cloud CI/CD deployment pipelines across AWS, Azure, and Vercel, cutting build-to-deploy cycle times by **40%** while maintaining **99.9% uptime**.
+* Provided technical leadership and introduced modern code standard practices to enhance team workflow efficiency.
 
-###
+---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+### 🚀 Featured Projects
+* **[Adviser Simplicity](https://github.com/Fahad-Tech-Solution/AdviserSimplicity-Revamp):** A financial advisory SaaS platform featuring client data onboarding, superannuation projections, retirement adequacy calculators, and dynamic tabular data management.
+* **FlatAlly – AI Roommate Matching Platform:** A full-stack peer matching platform built with React, Node.js, and MongoDB, featuring a custom preference-vector algorithm and automated Zoom OAuth 2.0 video scheduling.
+* **AI Resume Analyzer:** An engineering CV analysis tool leveraging the Gemini API and Recoil state management to parse web URLs with minimal server overhead.
+* **AquaLoyal:** A cross-platform React Native mobile loyalty MVP featuring offline-first local SQLite data syncing and automated Laravel microservices for dynamic PDF invoice generation.
 
-###
+---
 
-<h3 align="left">About Me:</h3>
-
-###
-
-<p align="left">I’m a Full Stack Developer at Fahad Tech Solution, where I design and build scalable, user-centric web applications tailored to real business needs. I enjoy turning complex requirements into clean, intuitive, and high-performing digital solutions.<br><br>My technical skill set spans the full development lifecycle, with hands-on experience in React, Redux, Formik, Node.js, Laravel, PHP, JavaScript, HTML, CSS, Bootstrap, WordPress, and modern tools like Axios, AJAX, Yup, and React Bootstrap. I’ve also worked extensively with cloud deployments on AWS and Azure, ensuring applications are reliable, secure, and production-ready.<br><br>Over the years, I’ve successfully delivered multiple end-to-end projects — from API integration and backend architecture to polished frontend interfaces — always with a strong focus on performance, maintainability, and user experience. I thrive in collaborative environments, enjoy solving challenging problems, and continuously push myself to learn and adopt the latest technologies and best practices.<br><br>I hold a BSSE degree in Computer Software Engineering from Lahore Garrison University and consider myself a proactive learner, a strong team player, and someone who takes ownership of their work.<br><br>💡 Always open to new challenges, meaningful collaborations, and exciting opportunities. Let’s connect and build something impactful together.</p>
-
-###
-
-<br clear="both">
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=usamafaheemAhmed.usamafaheemAhmed&"  />
-</div>
-
-###
+### 📊 GitHub Stats
+![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=usamafaheemAhmed&show_icons=true&theme=radical)
