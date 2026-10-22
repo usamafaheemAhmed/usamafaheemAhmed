@@ -36,5 +36,4 @@ Full-Stack Engineer with 4+ years of experience architecting and deploying scala
 
 ---
 
-### 📊 GitHub Stats
-![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=usamafaheemAhmed&show_icons=true&theme=radical)
+
